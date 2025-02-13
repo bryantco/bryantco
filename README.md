@@ -1,5 +1,6 @@
-## Hi there 👋
-
+* 👋🏼 Hi, I’m Bryant C
+* 🌱 I am a data scientist passionate about applying quantitative tools to inform and drive decisionmaking in the public and private sector
+* 🔭 I'm currently employed as a Research Analyst at the UChicago [Crime Lab](https://crimelab.uchicago.edu/) and [Education Lab](https://educationlab.uchicago.edu/)
 <!--
 **bryantco/bryantco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
