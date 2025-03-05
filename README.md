@@ -10,7 +10,7 @@ I have worked on a variety of projects that showcase my expertise in **A/B testi
 
 * 🚆 Transit
    * [Describing](https://github.com/bryantco/cta-analysis) Chicago rail ridership trends before and after the height of COVID-19 (Python)
-   * [Analyzing](https://github.com/bryantco/divvy-q3-2018-viz)inequality in bike ride share use in Chicago (AWS, Python)
+   * [Analyzing](https://github.com/bryantco/divvy-q3-2018-viz) inequality in bike ride share use in Chicago (AWS, Python)
 * 📚 Education
    * [Predicting](https://github.com/bryantco/rp-portfolio) out-of-school suspension days using a random forest model and employing causal differences-in-differences models to evaluate a behavioral intervention (Python, R)
 * 🎨 Just for fun
